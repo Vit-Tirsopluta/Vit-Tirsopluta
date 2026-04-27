@@ -1,7 +1,12 @@
-# Hi! I'm Vitalii 👋👨‍💻
+# Hi! I'm Vitalii 👋
 
-### About me
-18 y.o. Computer science enjoyer who wanna know more and more.
+## About Me 👨‍💻
+
+I’m an 18-year-old Computer Science student from Ukraine.  
+I work with React, JavaScript, HTML, and CSS, and I use Linux as my main system.
+
+I like building small projects, writing scripts, and understanding how things work under the hood.  
+Currently learning more about APIs, backend basics, and improving my English for tech communication.
 
 ---
 
@@ -12,7 +17,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics 📊
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=vitaliy&show_icons=true&theme=tokyonight&locale=en" height="370"/>
   </p>
