@@ -19,10 +19,6 @@ Currently learning more about APIs, backend basics, and improving my English for
 
 ## GitHub Statistics 📊
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vitaliy&show_icons=true&theme=tokyonight&locale=en" height="370"/>
-  </p>
-
-  <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitaliy&theme=tokyonight" height="370"/>
   </p>
 
